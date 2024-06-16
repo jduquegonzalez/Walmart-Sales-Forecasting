@@ -1,0 +1,3 @@
+MAE,RMSE,Bias,R²,Training Time rf1 (min)
+3.3,8.5,-0.1,1.0,3.0
+9.1,23.2,-0.1,1.0,3.0
