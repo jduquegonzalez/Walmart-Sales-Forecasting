@@ -1,0 +1,1 @@
+{"randomforestregressor__n_estimators": 100, "randomforestregressor__min_samples_split": 10, "randomforestregressor__min_samples_leaf": 1, "randomforestregressor__max_features": "sqrt", "randomforestregressor__max_depth": null, "randomforestregressor__bootstrap": false}
